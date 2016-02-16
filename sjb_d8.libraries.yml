@@ -1,0 +1,10 @@
+global:
+  version: VERSION
+  css:
+    base:
+      css/sjb_d8.css: {}
+  js:
+    js/sjb_d8.js: {}
+  dependencies:
+    - core/drupal
+    - core/jquery
